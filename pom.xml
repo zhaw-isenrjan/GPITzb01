@@ -78,4 +78,5 @@
             </plugin>
         </plugins>
     </build>
+    <name>modulabschlussarbeit_GPITzb01</name>
 </project>

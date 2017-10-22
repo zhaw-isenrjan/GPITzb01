@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ch.zhaw.sml.iwi.gpi.examples;
+package ch.zhaw.sml.iwi.gpi.GPI.tzb01;
 
 import java.util.Map;
 import org.camunda.bpm.engine.delegate.DelegateExecution;

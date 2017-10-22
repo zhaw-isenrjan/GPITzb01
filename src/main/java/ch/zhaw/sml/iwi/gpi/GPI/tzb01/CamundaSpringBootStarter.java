@@ -1,4 +1,4 @@
-package ch.zhaw.sml.iwi.gpi.examples;
+package ch.zhaw.sml.iwi.gpi.GPI.tzb01;
 
 import org.camunda.bpm.spring.boot.starter.annotation.EnableProcessApplication;
 import org.h2.server.web.WebServlet;
